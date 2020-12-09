@@ -1,3 +1,5 @@
+// This is just only example code
+
 package main
 
 import (
